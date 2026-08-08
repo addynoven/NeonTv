@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+node_modules/
+.env
+target/
+dist/
+build/
+.venv/
